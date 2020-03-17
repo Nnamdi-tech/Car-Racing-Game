@@ -1,0 +1,9 @@
+C:\Users\Nnamdi\Source\Repos\Car Racing Game\bin\Debug\Car Racing Game.exe.config
+C:\Users\Nnamdi\Source\Repos\Car Racing Game\bin\Debug\Car Racing Game.exe
+C:\Users\Nnamdi\Source\Repos\Car Racing Game\bin\Debug\Car Racing Game.pdb
+C:\Users\Nnamdi\Source\Repos\Car Racing Game\obj\Debug\Car Racing Game.csprojAssemblyReference.cache
+C:\Users\Nnamdi\Source\Repos\Car Racing Game\obj\Debug\Car_Racing_Game.Form1.resources
+C:\Users\Nnamdi\Source\Repos\Car Racing Game\obj\Debug\Car_Racing_Game.Properties.Resources.resources
+C:\Users\Nnamdi\Source\Repos\Car Racing Game\obj\Debug\Car Racing Game.csproj.GenerateResource.cache
+C:\Users\Nnamdi\Source\Repos\Car Racing Game\obj\Debug\Car Racing Game.exe
+C:\Users\Nnamdi\Source\Repos\Car Racing Game\obj\Debug\Car Racing Game.pdb
